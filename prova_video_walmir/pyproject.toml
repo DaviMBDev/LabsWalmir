@@ -1,0 +1,17 @@
+[project]
+name = "prova-video-walmir"
+version = "0.1.0"
+description = "Reconstrução fiel do projeto mostrado no vídeo da prova do Prof. Walmir (Agente Supervisor com LangGraph + Groq + PyMuPDF + ChromaDB)"
+requires-python = ">=3.10"
+dependencies = [
+    "python-dotenv",
+    "groq",
+    "langchain-core",
+    "langchain-groq",
+    "langgraph",
+    "langgraph-supervisor",
+    "pymupdf",
+    "chromadb",
+    "sentence-transformers",
+    "langchain-text-splitters",
+]

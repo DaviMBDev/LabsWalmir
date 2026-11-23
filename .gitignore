@@ -1,4 +1,6 @@
 .env
 __pycache__/
 chroma_*/
+prova_video_walmir/data/chroma/
+kit_consulta_prova/exemplo_prova_resolvida/chroma_prova/
 .ipynb_checkpoints/
